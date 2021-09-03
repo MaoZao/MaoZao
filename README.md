@@ -8,11 +8,10 @@ Now I'm deepening my knowledge as a data engineer.<br />
 - ⚙  I’m currently learning kafka.
 
 
+- - -
 
----------------------------------------
-
-> “In God we trust. All others must bring data.”
->  - William Edwards Deming
+> **“In God we trust. All others must bring data.”**
+>   William Edwards Deming
 
 <h4 align="center"> 
 	🚧  🚀 Under Construction...  🚧
