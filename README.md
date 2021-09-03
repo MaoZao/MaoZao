@@ -7,10 +7,9 @@ Now I'm deepening my knowledge as a data engineer.<br />
 - 🔭 I’m currently working on A3Data.
 - ⚙  I’m currently learning kafka.
 
-<ul>
-<li>Line 1</li>
-<li>Line 2</li>
-</ul>
+
+
+---------------------------------------
 
 > “In God we trust. All others must bring data.”
 >  - William Edwards Deming
