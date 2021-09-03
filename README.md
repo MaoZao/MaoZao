@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there
+
+My Name is Pedro. I'm 33 yeas old.
+6+ years working in BI. 
+Now I'm deepening my knowledge as a data engineer
+
+- 🔭 I’m currently working on A3Data.
+- ⚙  I’m currently learning kafka.
+
+
+> “In God we trust. All others must bring data.”
 
 <h4 align="center"> 
 	🚧  🚀 Under Construction...  🚧
