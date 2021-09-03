@@ -11,7 +11,13 @@ Now I'm deepening my knowledge as a data engineer.<br />
 - - -
 
 > **“In God we trust. All others must bring data.”**
-> William Edwards Deming
+> William Edwards Deming<br />
+
+- - -
+
+
+
+
 
 <h4 align="center"> 
 	🚧  🚀 Under Construction...  🚧
