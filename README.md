@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maozao" alt="maozao" /> </p>
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrodefreitassalomao/)](https://www.linkedin.com/in/pedrodefreitassalomao/) 
 <!--
 **MaoZao/MaoZao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
