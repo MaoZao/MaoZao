@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  🚀 Under Construction...  🚧
 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maozao" alt="maozao" /> </p>
