@@ -6,6 +6,7 @@ Now I'm deepening my knowledge as a data engineer.<br />
 
 - 🔭 I’m currently working on A3Data.
 - ⚙  I’m currently learning kafka.
+- 🏗  I'm currently learning kubernetes and container. Just start https://hub.docker.com/u/maozao
 
 
 - - -
